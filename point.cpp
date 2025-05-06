@@ -20,21 +20,25 @@ class PersegiPanjang
     {
         return a*b;
     }
-    lingkaran 0l;
+    Lingkaran ol;
 };
 class Lingkaran
 {
     public:
     int jarijari;
 
-    voidinput()
+    void input()
     {
         cout << "masukkan jari-jari : ";
-        cin >> jari-jari;
+        cin >> jarijari;
     }
 
     int luasLingkaran(int r)
     {
         return 3.14*r*r;
-    }
+    };
+};
+int main()
+{
+    persegipanjang
 }
